@@ -1,5 +1,4 @@
 Assignment 2:
-<img width="245" height="190" alt="DespicableMeFlirtingGIF" src="https://github.com/user-attachments/assets/82f44b7a-e0b6-46c3-bf26-c3813521e0ae" />
 
 
 Summary
